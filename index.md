@@ -1,7 +1,7 @@
 ---
-title: Welcome to my blog
+title: Oskars coola blog :sunglasses:
 ---
 
-*** WOW coolt att testa ***
+# Här kommer jag skriva om bröd eller andra saker jag gör.
 
-Hej här är lite text
+Sidan är liite under uppbyggnad 
