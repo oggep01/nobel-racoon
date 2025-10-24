@@ -1,7 +1,7 @@
 # _config.yml
 
 theme: minima
-
+baseurl: "/noble-racoon"
 title: Oskars blog
 author: Oskar Persson 
 email: oskar.u.persson@gmail.com
