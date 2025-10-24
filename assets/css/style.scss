@@ -3,3 +3,7 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+body {
+ background: #771e0a
+}
