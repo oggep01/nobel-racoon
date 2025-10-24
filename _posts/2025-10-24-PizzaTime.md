@@ -19,13 +19,13 @@ Jäsning 11h efter blandning med Dansk degvisp och lite handarbete, vila 20 min 
 Hittade en gammal pizzasås i frysen jag använde då jag glömde köpa tomatsås. Ost var resterna av en parmesan och mozarella.  Grönsaker var rödlök och jalapeno. Protein var rökta sardiner i olja (riktigt gott) och mortadella från Hemköp deli (igen förvånansvärt gott). 
 
 # Pizza med rökta sardiner
-[Pizza med rökta sardiner](/assets/fisk_pizza.jpg)
+![Pizza med rökta sardiner](/assets/fisk_pizza.jpg)
 
 # Pizza med mortadella
-[Pizza med mortadella](/assets/mortadella_pizza.jpg)
+![Pizza med mortadella](/assets/mortadella_pizza.jpg)
 
 # Pizza med båda på 
-[Pizza med båda](/assets/blanding_pizza.jpg)
+![Pizza med båda](/assets/blanding_pizza.jpg)
 
 Börjar få in formen ordentligt, särskilt den sista när jag inte var vrålhungrig längre, avnjöts med Popelino Ale! 
 
