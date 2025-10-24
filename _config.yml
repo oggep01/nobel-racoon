@@ -1,6 +1,13 @@
 # _config.yml
 
 theme: minima
+
 title: Oskars blog
 author: Oskar Persson 
+email: oskar.u.persson@gmail.com
 description: Spamblog
+minima:
+  skin: dark
+  nav_pages:
+    - about.md
+    - portfolio.md
