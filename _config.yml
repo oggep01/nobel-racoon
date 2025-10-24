@@ -7,7 +7,7 @@ author: Oskar Persson
 email: oskar.u.persson@gmail.com
 description: Spamblog
 minima:
-  # skin: dark
+  skin: dark
   nav_pages:
     - about.md
     - portfolio.md
